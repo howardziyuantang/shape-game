@@ -2,6 +2,6 @@
 
 a simple game where you rotate, drag and drop shapes to match a picture/board
 
-unfinished, got close
+unfinished
 
 src/GUI.java to run
